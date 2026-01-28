@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis",
+  "description": "A high-intelligence multi-project workspace powered by Gemini 3 Flash, featuring multimodal vision, voice, and reasoning capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
